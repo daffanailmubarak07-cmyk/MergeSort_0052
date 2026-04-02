@@ -96,4 +96,7 @@ for (int x = low; x <= high; x++)
     {
         cout << arr[i] << " ";
     }
-    
+    cout << endl;
+}
+
+ 
